@@ -12,8 +12,32 @@
 
 <body>
     <h1 align='center'>Jay Gurudev . Welcome to art of living international center</h1>
-   
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <div class="container">
+        <br />
+        <br />
+        <br />
+        <h2 align="center">Live Data Search in Codeigniter using Ajax JQuery</h2><br />
+        <div class="form-group">
+            <div class="input-group">
+                <span class="input-group-addon">Search</span>
+                <input type="text" name="search_text" id="search_text" placeholder="Search by Customer Details" class="form-control" />
+            </div>
+        </div>
+        <br />
+        <div id="result"></div>
+    </div>
+    <div style="clear:both"></div>
+    <br />
+    <br />
+    <br />
+    <br />
+</body>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 
 

@@ -54,4 +54,6 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 //Laundry Search Craete 
-$route['search']='AjaxSearchController/index';
+// $route['search']='AjaxSearchController/index';
+$route['search2']='Ajaxsearch/index';
+$route['search2/fetch']='Ajaxsearch/fetch';
